@@ -1,0 +1,12 @@
+body {
+    background-color:lightsalmon;
+    color: #000000fa;
+}
+ 
+.jumbotron {
+    background-image: url("nature.jfif");
+    background-size: 100% 100%;
+    text-align: center;
+    font-style: inherit;
+    color: darkred;
+}
